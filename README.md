@@ -41,7 +41,7 @@ PORT=5000
 HOST=0.0.0.0
 VITE_BACKEND_MODE=api
 JWT_SECRET=coloque_um_segredo_forte_com_32+_chars
-DATABASE_URL=postgresql://postgres:1308@localhost:5432/restaurant
+DATABASE_URL=postgresql://seu_usuario:sua_senha@localhost:5432/seu_schema
 ```
 
 Se você não quiser dados padrão ao iniciar:
